@@ -1,6 +1,6 @@
 {
   "name": "wechat-mini-programs-apis",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "description": "微信小程序api汇总",
   "main": "index.js",
   "scripts": {

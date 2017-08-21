@@ -4,7 +4,7 @@
 
 import './page'
 
-function wx () {}
+class wx {}
 /**
  *
  * @param {String} url                  （必须）开发者服务器接口地址
