@@ -1,0 +1,24 @@
+{
+  "name": "wechat-mini-programs-apis",
+  "version": "0.0.1",
+  "description": "微信小程序api汇总",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayazhang/weChatMiniPrograms.git"
+  },
+  "keywords": [
+    "微信小程序",
+    "微信小程序api",
+    "微信小程序开发文档"
+  ],
+  "author": "907010286@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayazhang/weChatMiniPrograms/issues"
+  },
+  "homepage": "https://github.com/jayazhang/weChatMiniPrograms#readme"
+}
