@@ -64,5 +64,3 @@ Page.prototype.onPageScroll = function () {}
 // setData 函数用于将数据从逻辑层发送到视图层（异步），同时改变对应的 this.data 的值（同步）。
 Page.prototype.setData = function () {}
 
-
-
