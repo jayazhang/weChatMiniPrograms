@@ -5,6 +5,16 @@
 import './page'
 
 class wx {
+  /* https://mp.weixin.qq.com/debug/wxadoc/dev/api/checkIsSoterEnrolledInDevice.html */
+  static checkIsSoterEnrolledInDevice ({ checkAuthMode, success, fail, complete }) {
+
+  }
+  // https://mp.weixin.qq.com/debug/wxadoc/dev/api/getRecorderManager.html
+  static getRecorderManager () {}
+
+  // https://mp.weixin.qq.com/debug/wxadoc/dev/api/createInnerAudioContext.html
+  static createInnerAudioContext () {}
+
   /**
    *
    * @param {String} url                  （必须）开发者服务器接口地址
