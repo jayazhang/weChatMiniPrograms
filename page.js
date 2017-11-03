@@ -28,7 +28,9 @@ function Page () {}
 
  https://mp.weixin.qq.com/debug/wxadoc/dev/api/pulldown.html#onpulldownrefresh
  */
-Page.prototype.onPullDownRefresh = function () {}
+Page.prototype.onPullDownRefresh = function () {
+
+}
 
 /**
  * 在 Page 中定义 onShareAppMessage 函数，设置该页面的转发信息。
