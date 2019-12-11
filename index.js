@@ -4,6 +4,7 @@
 
 import './page'
 
+
 class wx {
   /* https://mp.weixin.qq.com/debug/wxadoc/dev/api/checkIsSoterEnrolledInDevice.html */
   static checkIsSoterEnrolledInDevice ({ checkAuthMode, success, fail, complete }) {
